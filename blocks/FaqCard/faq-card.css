@@ -3,6 +3,14 @@
   cursor: pointer;
 }
 
+.faq-card__answer {
+  display: none;
+}
+
+.faq-card__answer--active {
+  display: block;
+}
+
 .faq-card__question:hover {
   color: #ad28eb;
 }

@@ -4,6 +4,6 @@
 
 @import url("../blocks/page.css");
 
-@import url("../blocks/faq-card.css");
+@import url("../blocks/FaqCard/faq-card.css");
 
 @import url("../blocks/attribution.css"); /* Keep attribution at the end*/
