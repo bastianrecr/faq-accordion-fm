@@ -1,0 +1,8 @@
+.faq-card__question {
+  all: unset;
+  cursor: pointer;
+}
+
+.faq-card__question:hover {
+  color: #ad28eb;
+}
