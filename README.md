@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://bastianrecr.github.io/faq-accordion-fm)
+- Live Site URL: [Frontend Mentor | FAQ accordion](https://bastianrecr.github.io/faq-accordion-fm)
 
 ## My process
 
